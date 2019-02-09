@@ -2,7 +2,7 @@
 
 A rust development container with vim and fish on centos.
 
-# SAMPLE RUN COMMAND:
+## SAMPLE RUN COMMAND:
 ~> docker run -it -d \
     --hostname="rust-centos" \
     --name="rust-centos" \
@@ -10,5 +10,5 @@ A rust development container with vim and fish on centos.
     -w /root/code \
     local/rust-centos
 
-# SAMPLE EXEC COMMAND:
+## SAMPLE EXEC COMMAND:
 ~> docker exec -it rust-centos /usr/bin/fish
