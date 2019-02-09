@@ -1,4 +1,4 @@
-# rust-image-centos
+# rust-centos
 
 A rust development container with vim and fish on centos.
 
